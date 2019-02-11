@@ -3,4 +3,5 @@
 <p>C'est l'aboutissement du <a href="https://www.imt-atlantique.fr/fr/node/662">Challenge Innovation</a> à l'IMT Atlantique.</p> 
 <p>Remarques :
 <ul><li>Dans le dossier "assets", il y'a le code CSS trouvé <a href="https://templated.co/">ici</a>, légèrement modifié.
- <li>Ce site n'a pas été totalement adapté pour les écrans de téléphone mobile</ul></p> 
+<li>Ce site n'a pas été totalement adapté pour les écrans de téléphone mobile.
+<li>Le lien vers la nouvelle base de données n'est pas inclus dans le code, ce qui provoque une erreur lorsque l'on clique sur l'onglet 'Annonces'.</ul></p> 
