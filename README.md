@@ -1,6 +1,6 @@
 # Blablasurf
 <p>Site web de covoiturage pour surfeurs, accès au site web <a href="http://blablasurf.dx.am">ici</a>.</p>
-<p>Ce site a été crée lors du <a href="https://www.imt-atlantique.fr/fr/node/662">Challenge Innovation</a> à l'IMT Atlantique.</p> 
+<p>Site crée lors du <a href="https://www.imt-atlantique.fr/fr/node/662">Challenge Innovation</a> à l'IMT Atlantique.</p> 
 <p>Notes :
 <ul>
 <li>Le site n'a pas été totalement adapté pour les écrans de téléphone mobile.
